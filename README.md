@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! I'm Samarjeet Patil 👋
 
-<!--
-**dev-samarpatil/dev-samarpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student specializing in **AI & ML**. I have a passion for bridging the gap between software and the physical world through **IoT**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Embedded Systems & Python**
+- 🌱 I’m currently learning: **Python**
+- 🛠 **My Tech Stack:**
+  - **Languages:** C, SQL, Python (Learning)
+  - **Hardware/IoT:** ESP32, Arduino, MPU6050, Sensors
+  - **Databases:** Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I built a Smart Safety Helmet in my first year that detects falls using physics!
+
+[![](https://visitcount.itsvg.in/api?id=dev-samarpatil&label=Profile%20Views&color=10&icon=5&pretty=true)](https://github.com/dev-samarpatil)
