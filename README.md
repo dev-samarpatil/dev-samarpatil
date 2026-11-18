@@ -1,41 +1,65 @@
-<div align="center">
-  <h1>Hey 👋 I'm Samarjeet Patil</h1>
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" alt="Pixel-art developer desk banner" />
-  <p>
-    <a href="https://github.com/dev-samarpatil"><img src="https://img.shields.io/badge/GitHub-dev--samarpatil-181717?style=for-the-badge&logo=github" /></a>
-    <a href="https://linkedin.com/in/samarjeet-patil-8b9305280"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  </p>
-</div>
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" /> I'm SAMARJEET PATIL
+</h1>
 
-## 📌 About Me
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Pixel-art developer desk" width="100%" />
+</p>
+
+<h2>📌 About Me</h2>
 
 - 🎓 B.Tech student in **Computer Science & Engineering (AI & ML)** at MIT Academy of Engineering, Pune.
-- 🤖 Interested in **Agentic AI, Generative AI, Machine Learning, RAG, and Knowledge Graphs**.
-- 🛠️ I enjoy learning by building prototypes, experimenting with tools, and solving practical problems.
+- 🤖 Exploring **Agentic AI, Generative AI, Machine Learning, RAG, and Knowledge Graphs**.
+- 🛠️ I enjoy learning by building prototypes, experimenting with new tools, and solving real-world problems.
 - 🚀 **Top 106 teams** — Google Solution Challenge 2026.
 - 🏆 **Second Runner-Up** — Nirmaan 4.0, with team *The Excluded*.
-- 🤝 Interested in hackathons, technical communities, and collaborating with curious builders.
+- 🤝 Interested in hackathons, collaboration, and learning with other developers.
 
 ---
 
-## 🧩 Selected Projects
+<h2>🧩 Selected Projects</h2>
 
-| Project | What it does |
-|---|---|
-| **AGENTICA — AI Agent Marketplace** | Marketplace concept for specialized Data, Scraping, and Inference agents, with agent discovery and multi-agent workflows. |
-| **NETRA — Investigative Intelligence** | Connects entities and evidence across cases using knowledge graphs, graph analytics, and RAG-based retrieval. |
-| **Krishi Vikas AI** | Agricultural support platform combining crop-disease assistance with farmer-focused information and services. |
-| **FairLens — AI Fairness Auditing** | Workflows to examine and communicate fairness and bias issues in AI/ML systems. |
-| **NautilusAI — Marine Intelligence** | Multi-agent marine anomaly detection and ocean-data intelligence. |
-| **Worker Safety System** | Ongoing IoT concept combining a fall-detection smart helmet with an inflatable safety vest and emergency response. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AGENTICA</h3>
+      <p>AI Agent Marketplace — specialized Data, Scraping, and Inference agents with agent discovery and multi-agent workflows.</p>
+    </td>
+    <td width="50%">
+      <h3>🕵️ NETRA</h3>
+      <p>Investigative Intelligence — connecting evidence and entities across cases using knowledge graphs, graph analytics, and RAG.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌾 Krishi Vikas AI</h3>
+      <p>Agricultural AI platform with crop-disease assistance and farmer-focused information and services.</p>
+    </td>
+    <td width="50%">
+      <h3>⚖️ FairLens</h3>
+      <p>AI fairness auditing workflows to examine and communicate bias in machine-learning systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌊 NautilusAI</h3>
+      <p>Multi-agent marine anomaly detection and ocean-data intelligence.</p>
+    </td>
+    <td width="50%">
+      <h3>🦺 Worker Safety System</h3>
+      <p>Ongoing IoT concept combining a fall-detection smart helmet with an inflatable safety vest and emergency response.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
+<h2>🛠️ Languages & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,fastapi,nodejs,postgres,mongodb,docker,git,github,vscode&perline=8" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Machine%20Learning-7C5CFF?style=flat-square" />
   <img src="https://img.shields.io/badge/GenAI-Agentic%20AI-00B8D9?style=flat-square" />
@@ -46,39 +70,39 @@
 
 ---
 
-## 🏆 Achievements
+<h2>🏆 Achievements</h2>
 
-- **Google Solution Challenge 2026:** Selected among the Top 106 teams.
-- **Nirmaan 4.0:** Second Runner-Up with team *The Excluded*.
-
----
-
-## 🕹️ Playable Signal — Contribution Arcade
-
-My profile activity, reimagined as a tiny space-arcade game. **Open the game and see how long you can survive.**
-
-<div align="center">
-  <a href="https://dev-samarpatil.github.io/dev-samarpatil/">
-    <img src="./assets/playable-signal-preview.svg" width="100%" alt="Playable Signal arcade preview — click to play" />
-  </a>
-  <br/>
-  <a href="https://dev-samarpatil.github.io/dev-samarpatil/">
-    <img src="https://img.shields.io/badge/▶%20PLAY%20THE%20GAME-Open%20Playable%20Signal-16A34A?style=for-the-badge&labelColor=101820" alt="Play the game" />
-  </a>
-</div>
-
-<sub>Controls: ← → or A/D to move · Space to shoot · P to pause. On mobile, use the on-screen controls.</sub>
-
----
-
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/samarjeet-patil-8b9305280"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dev-samarpatil"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20106%20Teams-0A8F5A?style=for-the-badge&labelColor=101820" />
+  <img src="https://img.shields.io/badge/Nirmaan%204.0-Second%20Runner--Up-D6A23A?style=for-the-badge&labelColor=101820" />
 </p>
 
-<div align="center">
+---
+
+<h2>🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-samarpatil/dev-samarpatil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-samarpatil/dev-samarpatil/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/dev-samarpatil/dev-samarpatil/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+<h2>🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/samarjeet-patil-8b9305280">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dev-samarpatil">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B3D,100:00D9FF&height=100&section=footer" width="100%" />
   <b>Build. Learn. Experiment. Repeat.</b>
-</div>
+</p>
